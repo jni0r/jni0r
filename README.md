@@ -38,9 +38,9 @@ Here are some ideas to get you started:
   ##
   
   <div>   
-  <a href="https://www.linkedin.com/in/mario-castro-708b50354/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
-</a>>  
+ <a href="https://www.linkedin.com/in/mario-castro-708b50354/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>  
 
