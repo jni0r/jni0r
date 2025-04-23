@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Programador 
-- 🌱 Atualmente estudo Programação (Python, Java, TypeScript, JavaScript, Linux) e tenho conhecimento solido em CSS 3, HTML 5 e React.
+- 🌱 Atualmente estudo Programação (Python, Java, TypeScript, JavaScript, Linux) e tenho conhecimento solido em CSS 3, HTML 5 e React.<br> 
 -👨🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas.
+<br> 
 
 
 
