@@ -1,4 +1,4 @@
-### Olá! Junior aqui!😉
+### Olá! Junior aqui!👨🏻‍💻
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right">
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   <a href="https://github.com/bessax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jni0r&theme=dark&show_icons=true"/>
-  <img height="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jni0r&theme=dark&show_icons=true"/>
+  <img height="75em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jni0r&theme=dark&show_icons=true"/>
    
 </div>
 
